@@ -1,0 +1,17 @@
+{
+    "name": "gabriel/adapter",
+    "description": "Adapter allows to translate one interface for use with another",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Gabriel Jay Huerte",
+            "email": "gjhuerte@gmail.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Acme\\": "src"
+        }
+    }
+}

@@ -1,0 +1,16 @@
+{
+    "name": "gabriel/template",
+    "description": "Template design pattern",
+    "authors": [
+        {
+            "name": "Gabriel Jay Huerte",
+            "email": "gjhuerte@gmail.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "App\\": "src"
+        }
+    }
+}

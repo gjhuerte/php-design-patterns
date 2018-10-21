@@ -1,0 +1,17 @@
+{
+    "name": "gjhuerte/specification-pattern",
+    "description": "Php design pattern using laracasts tutorials",
+    "require-dev": {
+        "phpunit/phpunit": "^7.4"
+    },
+    "authors": [
+        {
+            "name": "Gabriel Jay Huerte",
+            "email": "gjhuerte@gmail.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "classmap": ["src"]
+    }
+}
